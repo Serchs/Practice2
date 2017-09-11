@@ -1,0 +1,2 @@
+C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2.UWP\Practice2.UWP.csproj;x86
+C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2\Practice2.csproj;neutral
