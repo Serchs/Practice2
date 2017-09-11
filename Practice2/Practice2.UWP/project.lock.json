@@ -22273,16 +22273,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practice2\\Practice2.UWP\\Practice2.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2.UWP\\Practice2.UWP.csproj",
       "projectName": "Practice2.UWP",
-      "projectPath": "C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practice2\\Practice2.UWP\\Practice2.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practice2\\Practice2.UWP\\project.json",
+      "projectPath": "C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2.UWP\\Practice2.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practice2\\Practice2\\Practice2.csproj": {
-              "projectPath": "C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practice2\\Practice2\\Practice2.csproj"
+            "C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2\\Practice2.csproj": {
+              "projectPath": "C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2\\Practice2.csproj"
             }
           }
         }
@@ -22290,7 +22290,7 @@
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": "[2.3.4.270, )"
+      "Xamarin.Forms": "2.3.4.270"
     },
     "frameworks": {
       "uap10.0": {}

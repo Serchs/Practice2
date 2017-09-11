@@ -11,8 +11,7 @@
 namespace Practice2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Serchs Contreras\\documents\\visual studio 2017\\Projects\\Practice2\\Practic" +
-        "e2\\Practice2\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Serchs Contreras\\Source\\Repos\\Practice2\\Practice2\\Practice2\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
