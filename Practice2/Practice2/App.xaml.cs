@@ -22,7 +22,7 @@ namespace Practice2
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "WELCOME TO XAMARIN FORMS !"
+                            Text = "WELCOME TO XAMARIN FORMS Serchs Contreras !"
                         }
                     }
                 }
