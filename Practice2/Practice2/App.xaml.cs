@@ -13,32 +13,32 @@ namespace Practice2
         {
             //InitializeComponent();
 
-            //MainPage = new Practice2.MainPage();
-            MainPage = new ContentPage
+            MainPage = new Practice2.MainPage();
+            //MainPage = new ContentPage
             {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
+                //Content = new StackLayout
+                //{
+                //    VerticalOptions = LayoutOptions.Center,
+                //    Children = {
+                //        //new Label {
+                //        //    HorizontalTextAlignment = TextAlignment.Center,
                             
-                            Text = "Student:  Sergio Arturo Contreras Gonzalez  !",
-                        },
-                         new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "TECNOLOGICO DE ESTUDOS SUPERIORES DE HUIXQUILUCAN",
-                        }
-                         ,
-                         new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Matricula: 12090098",
-                        }
+                //        //    Text = "ISC !  SERCHS CONTRERAS !",
+                //        //},
+                //        //// new Label {
+                //        //    HorizontalTextAlignment = TextAlignment.Center,
+                //        //    Text = "TECNOLOGICO DE ESTUDOS SUPERIORES DE HUIXQUILUCAN",
+                //        //}
+                //        // ,
+                //        // new Label {
+                //        //    HorizontalTextAlignment = TextAlignment.Center,
+                //        //    Text = "Matricula: 12090098",
+                //        //}
 
                          
 
-                    }
-                }
+                //    }
+                //}
             };
 
 
