@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-21T06:33:14.011</Modified>
+      <Modified>2017-09-22T22:18:46.948</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Practice2.UWP.exe">
       <PackagePath>entrypoint\Practice2.UWP.exe</PackagePath>
-      <Modified>2017-09-21T06:33:13.480</Modified>
+      <Modified>2017-09-22T22:18:37.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Practice2.dll">
       <PackagePath>Practice2.dll</PackagePath>
-      <Modified>2017-09-21T06:33:11.131</Modified>
+      <Modified>2017-09-22T22:18:26.844</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -688,11 +688,11 @@
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-21T05:52:41.388</Modified>
+      <Modified>2017-09-21T07:00:22.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Core\Practice2.UWP.exe">
       <PackagePath>Practice2.UWP.exe</PackagePath>
-      <Modified>2017-09-21T06:33:14.007</Modified>
+      <Modified>2017-09-22T22:18:46.919</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
