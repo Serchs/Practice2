@@ -41,20 +41,10 @@
 
 
             </Grid.RowDefinitions>
-            
-            <Label Text="Datos Personales" Grid.Row="2"  Grid.Column="0" Grid.ColumnSpan="2" FontSize="Medium" TextColor="Black" ></Label>
-            <Entry x:Name="Name" Placeholder="Nombre" Grid.Row="3" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Entry x:Name="Ape" Placeholder= "Apellidos" Grid.Row="4" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2"  TextColor="DarkBlue"></Entry>
-            <Entry x:Name="Direc" Placeholder="Direccion" Grid.Row="5" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Entry x:Name="Tel" Placeholder="Telefono" Keyboard="Telephone" Grid.Row="6" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Label Text="Datos Escolares" Grid.Row="7"  Grid.Column="0" Grid.ColumnSpan="2" FontSize="Medium" TextColor="Black" ></Label>
-            <Entry x:Name="Carr" Placeholder="Carrera" Grid.Row="8"  BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Entry x:Name="Sem" Placeholder="Semestre" Grid.Row="9" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Entry x:Name="Matr" Placeholder="Matricula" Keyboard="Numeric" Grid.Row="10" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Label Text="Datos Sociales" Grid.Row="11"  Grid.Column="0" Grid.ColumnSpan="2" FontSize="Medium" TextColor="Black" ></Label>
-            <Entry x:Name="Ema" Placeholder="Email"  Grid.Row="12"  BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" Keyboard="Email" TextColor="DarkBlue"></Entry>
-            <Entry x:Name="GH" Placeholder="GitHub" Grid.Row="13" BackgroundColor="White" PlaceholderColor="Black"  Grid.Column="0" Grid.ColumnSpan="2" TextColor="DarkBlue"></Entry>
-            <Button Grid.Column="1" Grid.Row="9" Grid.ColumnSpan="2" Text="Send" TextColor="PaleTurquoise" BackgroundColor="DarkOliveGreen" Clicked="MostrarOnClicked"></Button>
+             <Button Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" Text="ALERTA" TextColor="PaleTurquoise" BackgroundColor="DarkOliveGreen" Clicked="MostrarOnClicked"></Button>
+            <Button Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="2" Text="DATOS PERSONALES" TextColor="PaleTurquoise" BackgroundColor="DarkOliveGreen" Clicked="MostrarOnClick"></Button>
+            <Button Grid.Column="0" Grid.Row="12" Grid.ColumnSpan="2" Text="CALCULADORA" TextColor="PaleTurquoise" BackgroundColor="DarkOliveGreen" Clicked="MostrarOnCli"></Button>
+
         </Grid>
     </ScrollView>
 </ContentPage>

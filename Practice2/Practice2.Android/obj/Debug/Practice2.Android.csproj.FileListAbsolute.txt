@@ -83,11 +83,3 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\res\values\styles.xml
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\R.cs.flag
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\uploadflags.txt
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\bin\Debug\Practice2.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\bin\Debug\Practice2.Android.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\Practice2.Android.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\Practice2.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
