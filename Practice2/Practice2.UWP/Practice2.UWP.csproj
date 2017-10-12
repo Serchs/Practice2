@@ -140,6 +140,11 @@
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="test1.jpg" />
+    <Content Include="test2.jpeg" />
+    <Content Include="test3.jpg" />
+    <Content Include="test4.jpg" />
+    <Content Include="test5.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

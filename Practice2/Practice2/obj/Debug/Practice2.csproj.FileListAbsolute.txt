@@ -27,4 +27,3 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\P
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.PracAlerta.xaml.g.cs
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.pdb
-C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache

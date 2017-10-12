@@ -1,5 +1,8 @@
-﻿using System;
+﻿using Practice2.Data;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,21 +15,40 @@ namespace Practice2
         public MainPage()
         {
             InitializeComponent();
-        }
-        private void MostrarOnClicked(object sender, EventArgs e)
-        {
-            Navigation.PushModalAsync(new PracAlerta());
+            var dat = new dataviewmodel();
+            listaimg.BindingContext = dat;
 
         }
-        private void MostrarOnClick(object sender, EventArgs e)
-        {
-            Navigation.PushModalAsync(new datospersonales());
 
-        }
-        private void MostrarOnCli(object sender, EventArgs e)
+        // de un listview como obtener el click de un boton y posicion 
+        class dataviewmodel : INotifyPropertyChanged
         {
-            Navigation.PushModalAsync(new calculadora());
+            public ObservableCollection<Imagenes> listadatos { get; set; }
+            
+            public dataviewmodel()
+            {
+                listadatos = new ObservableCollection<Imagenes>(Datos.Datosinit());
+            }
 
+            public event PropertyChangedEventHandler PropertyChanged;
         }
+
+
+
+        //private void MostrarOnClicked(object sender, EventArgs e)
+        //{
+        //    Navigation.PushModalAsync(new PracAlerta());
+
+        //}
+        //private void MostrarOnClick(object sender, EventArgs e)
+        //{
+        //    Navigation.PushModalAsync(new datospersonales());
+
+        //}
+        //private void MostrarOnCli(object sender, EventArgs e)
+        //{
+        //    Navigation.PushModalAsync(new calculadora());
+
+        //}
     }
 }

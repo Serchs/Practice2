@@ -2200,8 +2200,23 @@ namespace Practice2.Droid
 			// aapt resource value: 0x7f0200a0
 			public const int mr_ic_play_light = 2130837664;
 			
+			// aapt resource value: 0x7f0200a6
+			public const int notification_template_icon_bg = 2130837670;
+			
 			// aapt resource value: 0x7f0200a1
-			public const int notification_template_icon_bg = 2130837665;
+			public const int test1 = 2130837665;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int test2 = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int test3 = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int test4 = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int test5 = 2130837669;
 			
 			static Drawable()
 			{

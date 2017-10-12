@@ -507,6 +507,21 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\test1.jpg">
+      <PackagePath>test1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\test3.jpg">
+      <PackagePath>test3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\test4.jpg">
+      <PackagePath>test4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\test5.jpg">
+      <PackagePath>test5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\test2.jpeg">
+      <PackagePath>test2.jpeg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Practice2.UWP.xr.xml">
       <PackagePath>Practice2.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
