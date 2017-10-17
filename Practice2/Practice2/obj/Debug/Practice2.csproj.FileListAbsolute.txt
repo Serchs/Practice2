@@ -14,16 +14,24 @@ C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practi
 C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2\obj\Debug\Practice2.pdb
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Practice2.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLite-net.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLitePCLRaw.core.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLite-net.pdb
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\SQLite-net.xml
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.MainPage.xaml.g.cs
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.App.xaml.g.cs
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.PracAlerta.xaml.g.cs
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache

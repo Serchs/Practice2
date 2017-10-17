@@ -218,6 +218,7 @@ C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practi
 C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\Serchs Contreras\documents\visual studio 2017\Projects\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\e_sqlite3.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\App.xbf
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\MainPage.xbf
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Practice2.UWP.xr.xml
@@ -260,6 +261,7 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Threading.Tasks.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Threading.Timer.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Console.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.IO.FileSystem.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Net.Primitives.dll
@@ -268,6 +270,12 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\clrjit.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\clrcompression.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLite-net.pdb
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.AppContext.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Buffers.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
@@ -312,6 +320,7 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
@@ -359,6 +368,7 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\App.xbf
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\MainPage.xbf
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\Practice2.UWP.csproj.CoreCompileInputs.cache
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\Practice2.UWP.exe
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\Practice2.UWP.pdb
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\ResourceHandlingTask.state
@@ -367,6 +377,7 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
@@ -404,6 +415,7 @@ C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
 C:\Users\Serchs Contreras\Source\Repos\Practice2\Practice2\Practice2.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
